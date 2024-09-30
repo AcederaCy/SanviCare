@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SanviCare</string>
+    <string name="username">Username</string>
+    <string name="background">Background</string>
+    <string name="login">LOGIN</string>
+    <string name="app_logo">Your App Logo</string>
+    <string name="password">Password</string>
+</resources>
